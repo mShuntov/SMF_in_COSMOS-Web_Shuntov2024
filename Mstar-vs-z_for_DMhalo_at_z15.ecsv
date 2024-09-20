@@ -1,0 +1,17 @@
+# %ECSV 1.0
+# ---
+# datatype:
+# - {name: Redshift, datatype: float64}
+# - {name: M_halo, unit: solMass, datatype: float64}
+# - {name: M_star, unit: solMass, datatype: float64}
+# meta: !!omap
+# - cosmology: {H0: 70.0, Omega_lambda: 0.7, Omega_m: 0.3}
+# - {IMF: Chabrier03}
+# schema: astropy-2.0
+Redshift M_halo M_star
+0.35 11.850908313003009 21993450549.850338
+0.65 11.757340186666417 13758324296.542904
+0.9500000000000001 11.666511897501378 14860655610.145342
+1.3 11.563801155430495 4282819954.380569
+1.75 11.43655268203469 2256144008.262472
+2.25 11.301029995663981 910189987.6690336
